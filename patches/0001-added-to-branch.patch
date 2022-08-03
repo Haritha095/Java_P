@@ -1,0 +1,20 @@
+From 9edf020b4e0f6c6ddf829b6cecc9a5d0c4ff379a Mon Sep 17 00:00:00 2001
+From: Haritha095 <Haritha.D@elektrobit.com>
+Date: Tue, 2 Aug 2022 11:13:16 +0530
+Subject: [PATCH] added to branch
+
+---
+ mittu.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 mittu.txt
+
+diff --git a/mittu.txt b/mittu.txt
+new file mode 100644
+index 0000000..ef07ddc
+--- /dev/null
++++ b/mittu.txt
+@@ -0,0 +1 @@
++cat
+-- 
+2.37.1.windows.1
+
